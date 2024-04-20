@@ -14,10 +14,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-            Image(systemName: "gear")
+            Image(systemName: "hand.raised")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Are you ready")
+            Text("Good-bye")
         }
         .padding(110)
     }
